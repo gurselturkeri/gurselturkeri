@@ -1,5 +1,5 @@
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gürseltürkeri) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gurselturkeri) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gürseltürkeri)  
 
 
 ![gurselturkeri's github stats](https://github-readme-stats.vercel.app/api?username=gurselturkeri&show_icons=true&theme=tokyonight)
