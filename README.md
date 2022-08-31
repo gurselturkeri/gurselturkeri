@@ -1,8 +1,17 @@
+- 🌱 I’m currently learning **Machine Learning**
+
+- 📫 How to reach me **gurselt33@gmail.com**
+
+# 💻Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![ROS](https://img.shields.io/badge/ROS-22314E?style=plastic&logo=ROS&logoColor=ffdd54)
+
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gürseltürkeri)  
+#22314E
 
 
 ![gurselturkeri's github stats](https://github-readme-stats.vercel.app/api?username=gurselturkeri&show_icons=true&theme=tokyonight)
+
 
 
 
