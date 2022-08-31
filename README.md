@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+![](https://raw.githubusercontent.com/gurselturkeri/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+
+
+
 <!--
 **gurselturkeri/gurselturkeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
