@@ -1,3 +1,4 @@
+![gurselturkeri's github stats](https://github-readme-stats.vercel.app/api?username=gurselturkeri&show_icons=true&theme=tokyonight)
 - 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **gurselt33@gmail.com**
@@ -11,7 +12,6 @@
 ### What am I doing;
 ![](https://media2.giphy.com/media/D7VSawZA4nLcJZUFLI/giphy.gif?cid=790b7611c26a43629e31de3da73ea93896f9d6019e9264f0&rid=giphy.gif)
 
-![gurselturkeri's github stats](https://github-readme-stats.vercel.app/api?username=gurselturkeri&show_icons=true&theme=tokyonight)
 
 
 
