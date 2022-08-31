@@ -11,7 +11,7 @@
 
 ### What am I likes;
 ![](https://media2.giphy.com/media/D7VSawZA4nLcJZUFLI/giphy.gif?cid=790b7611c26a43629e31de3da73ea93896f9d6019e9264f0&rid=giphy.gif)
-<img align="right" width="150" height="150" src="[https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif](https://media.giphy.com/media/i6XDK3oYyOaLOALou7/giphy.gif)"></a>
+<img align="right" width="150" height="150" src="https://github.com/gurselturkeri/gurselturkeri/blob/main/1652037642057.jpeg")"></a>
 
 <!--
 **gurselturkeri/gurselturkeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
