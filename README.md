@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![](https://raw.githubusercontent.com/gurselturkeri/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![gurselturkeri's github stats](https://github-readme-stats.vercel.app/api?username=gurselturkeri&show_icons=true&theme=tokyonight)
 
 
 
