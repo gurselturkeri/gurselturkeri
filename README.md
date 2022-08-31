@@ -10,12 +10,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gürseltürkeri)  
 
 ### What am I likes;
-![](https://media2.giphy.com/media/D7VSawZA4nLcJZUFLI/giphy.gif?cid=790b7611c26a43629e31de3da73ea93896f9d6019e9264f0&rid=giphy.gif,https://media.giphy.com/media/i6XDK3oYyOaLOALou7/giphy.gif)
-
-
-
-
-
+![](https://media2.giphy.com/media/D7VSawZA4nLcJZUFLI/giphy.gif?cid=790b7611c26a43629e31de3da73ea93896f9d6019e9264f0&rid=giphy.gif)
+<img align="right" width="150" height="150" src="[https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif](https://media.giphy.com/media/i6XDK3oYyOaLOALou7/giphy.gif)"></a>
 
 <!--
 **gurselturkeri/gurselturkeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
