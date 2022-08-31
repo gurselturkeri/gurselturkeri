@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![](https://raw.githubusercontent.com/gurselturkeri/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/gurselturkeri/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 
 
