@@ -8,7 +8,7 @@
 # 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gürseltürkeri)  
 
-
+### What am I doing;
 ![](https://media2.giphy.com/media/D7VSawZA4nLcJZUFLI/giphy.gif?cid=790b7611c26a43629e31de3da73ea93896f9d6019e9264f0&rid=giphy.gif)
 
 ![gurselturkeri's github stats](https://github-readme-stats.vercel.app/api?username=gurselturkeri&show_icons=true&theme=tokyonight)
