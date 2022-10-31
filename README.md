@@ -1,5 +1,5 @@
 ![gurselturkeri's github stats](https://github-readme-stats.vercel.app/api?username=gurselturkeri&show_icons=true&theme=tokyonight)
-- 🌱 I’m currently learning **Machine Learning, LocalIzatIon&MappIng**
+- 🌱 I’m currently learning **Machine Learning, Localization&Mapping**
 
 - 📫 How to reach me **gurselt33@gmail.com**
 
