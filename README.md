@@ -12,6 +12,7 @@
 ### What am I Interested in;
 <img align="left" width="400" height="320" src="https://github.com/gurselturkeri/gurselturkeri/blob/main/1652037642057.jpeg"></a>
 ![](https://media2.giphy.com/media/D7VSawZA4nLcJZUFLI/giphy.gif?cid=790b7611c26a43629e31de3da73ea93896f9d6019e9264f0&rid=giphy.gif)
+![](https://media.giphy.com/media/Qjxs7eywctMlUFlfMX/giphy.gif)
 
 
 <!--
