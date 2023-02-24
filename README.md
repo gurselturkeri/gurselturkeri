@@ -1,7 +1,7 @@
 ![gurselturkeri's github stats](https://github-readme-stats.vercel.app/api?username=gurselturkeri&show_icons=true&theme=tokyonight)
-- 🌱 I’m currently learning **Machine Learning, Localization&Mapping**
+- 🌱 I’m currently learning **Robotics**
 
-- 📫 How to reach me **gurselt33@gmail.com**
+- 📫 How to reach me **gurselturkeri@hotmail.com**
 
 # 💻Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=plastic&logo=YOLO&logoColor=black) ![ROS](https://img.shields.io/badge/ROS-22314E?style=plastic&logo=ROS&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=plastic&logo=Adobe%20Photoshop&logoColor=white) 
