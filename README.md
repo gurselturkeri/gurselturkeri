@@ -6,7 +6,7 @@
 - :speech_balloon: Discord **letmeee#3362** 
 
 # 💻Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/Cpp-3670A0?style=plastic&logo=Cpp&logoColor=ffdd54) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=plastic&logo=YOLO&logoColor=black) ![ROS](https://img.shields.io/badge/ROS-22314E?style=plastic&logo=ROS&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=plastic&logo=Adobe%20Photoshop&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C++-3670A0?style=plastic&logo=C++&logoColor=ffdd54) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=plastic&logo=YOLO&logoColor=black) ![ROS](https://img.shields.io/badge/ROS-22314E?style=plastic&logo=ROS&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=plastic&logo=Adobe%20Photoshop&logoColor=white) 
 
 # 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gurselturkeri)  
