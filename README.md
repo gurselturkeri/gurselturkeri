@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning **Robotics**
 
 - 📫 How to reach me **gurselturkeri@hotmail.com**
-- :tv: Youtube: **https://www.youtube.com/@gurselturkeri**
+- 🎬 Youtube: **https://www.youtube.com/@gurselturkeri**
 - :speech_balloon: Discord **letmeee#3362** 
 
 # 💻Tech Stack
