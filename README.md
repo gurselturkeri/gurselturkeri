@@ -1,5 +1,5 @@
 ![gurselturkeri's github stats](https://github-readme-stats.vercel.app/api?username=gurselturkeri&show_icons=true&theme=tokyonight)
-- 🌱 I’m currently learning **Robotics**
+- 🌱 I’m currently learning **Control Systems**
 
 - 📫 How to reach me **gurselturkeri@hotmail.com**
 - 🎬 Youtube: **https://www.youtube.com/@gurselturkeri**
