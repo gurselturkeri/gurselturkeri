@@ -1,7 +1,5 @@
 ![gurselturkeri's github stats](https://github-readme-stats.vercel.app/api?username=gurselturkeri&show_icons=true&theme=tokyonight)
 - 🌱 I’m currently learning **Control Systems**
-[6/1 23:06] Umut Kaya: Umut.1903
-[6/1 23:07] Umut Kaya: Umutkaya19
 - 📫 How to reach me **gurselturkeri@hotmail.com**
 - 🎬 Youtube: **https://www.youtube.com/@gurselturkeri**
 - :speech_balloon: Discord **letmeee#3362** 
